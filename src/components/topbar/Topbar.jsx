@@ -21,7 +21,11 @@ function Topbar() {
           <div className="topbarIconContainer">
             <Settings />
           </div>
-          <img src="" alt="" className="topAvatar" />
+          <img
+            src="https://mms.businesswire.com/media/20160226005320/de/511119/5/Strive-Masiyiwa-HS.jpg"
+            alt=""
+            className="topAvatar"
+          />
         </div>
       </div>
     </div>
